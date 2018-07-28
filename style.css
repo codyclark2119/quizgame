@@ -1,0 +1,22 @@
+body {
+    background-image: url(https://dailyanimeart.files.wordpress.com/2014/02/one-piece-ace-hd-wallpaper-by-geeksoul1.jpg?w=1200);
+    background-repeat: no-repeat center center fixed;
+    background-size: cover;
+    height: 100%;
+    overflow: hidden;
+}
+h1 {
+    font-size: 600%;
+    font-family: 'Permanent Marker', cursive;
+    color: orange;
+}
+h2 {
+    font-size: 250%;
+    font-family: 'Bangers', cursive;
+    color: white;
+}
+#answer-choice {
+    font-size: 200%;
+    font-family: 'Bangers', cursive;
+    color: gainsboro;
+}
